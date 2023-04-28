@@ -1,0 +1,19 @@
+{
+    "name": "dino121/birdy",
+    "description": "birdy",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dino121\\Birdy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dino Musinovic",
+            "email": "dmusinovic@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
