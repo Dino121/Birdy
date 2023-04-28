@@ -8,6 +8,10 @@
             "Dino121\\Birdy\\": "src/"
         }
     },
+    "repositories": [{
+        "type": "git",
+        "url": "git@github.com:perasser/bird-counting.git"
+    }],
     "authors": [
         {
             "name": "Dino Musinovic",
@@ -15,5 +19,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "perasser/bird-counting": "1.1.0"
+    }
 }
